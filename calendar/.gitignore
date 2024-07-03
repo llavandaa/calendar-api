@@ -128,3 +128,6 @@ dmypy.json
 
 # Проверка типов Pyre
 .pyre/
+
+.venv/
+.DS_Store
